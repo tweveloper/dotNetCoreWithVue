@@ -1,3 +1,3 @@
-# dotNetWithVue
+# dotNetCoreWithVueJS
 
->.Net Core, MVC, Vue
+>.Net Core, MVC, VueJS
